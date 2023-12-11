@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ecommerecewebsite/static/css/main.3dd3f479.css",
+    "main.js": "/ecommerecewebsite/static/js/main.1d096922.js",
+    "static/js/787.da3bc93a.chunk.js": "/ecommerecewebsite/static/js/787.da3bc93a.chunk.js",
+    "static/media/dp-img3.jpg": "/ecommerecewebsite/static/media/dp-img3.1d32250abac91f7f9ea2.jpg",
+    "static/media/plate.png": "/ecommerecewebsite/static/media/plate.78aa09fd85052339a3c7.png",
+    "static/media/dp-img2.jpg": "/ecommerecewebsite/static/media/dp-img2.f3456a720c050f63107b.jpg",
+    "static/media/flowerkolly.png": "/ecommerecewebsite/static/media/flowerkolly.1bfe9cb24524e4a750ed.png",
+    "static/media/dp-img1.png": "/ecommerecewebsite/static/media/dp-img1.47e271c7d21021ee3399.png",
+    "static/media/orange-slice.png": "/ecommerecewebsite/static/media/orange-slice.a9c937a234c538f11c6e.png",
+    "static/media/cherry.png": "/ecommerecewebsite/static/media/cherry.811c87a50b1b86ac8b1c.png",
+    "static/media/call icon.svg": "/ecommerecewebsite/static/media/call icon.d8ff0c2669252b0fdff064b54555e44e.svg",
+    "index.html": "/ecommerecewebsite/index.html",
+    "main.3dd3f479.css.map": "/ecommerecewebsite/static/css/main.3dd3f479.css.map",
+    "main.1d096922.js.map": "/ecommerecewebsite/static/js/main.1d096922.js.map",
+    "787.da3bc93a.chunk.js.map": "/ecommerecewebsite/static/js/787.da3bc93a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3dd3f479.css",
+    "static/js/main.1d096922.js"
+  ]
+}
